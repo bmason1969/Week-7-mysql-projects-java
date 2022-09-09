@@ -6,7 +6,7 @@ http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <artifactId>mysql-projects-java</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-  	<java.version>11</java.version>
+  	<java.version>17</java.version>
   </properties>	
   <dependencies>
   <dependency>
